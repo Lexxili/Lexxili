@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lexxili
+- 👋 Hi, I’m Alexandra
 - 👀 I’m interested in Programming with Java and/or C++
 - 🌱 I’m currently learning to develop android apps
 - 💞️ I’m looking for interesting programming ideas and a job 
